@@ -10,4 +10,4 @@ Paper --> [The Evaluation of Growth Performance, Photosynthetic Capacity, and Pr
 
 New criteria for submissoin of dissertation in Jeonbuk National University
 
-![img]()
+![img](https://github.com/Yedomon/courses_affairs/blob/main/1617587313516.png)
