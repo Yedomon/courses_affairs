@@ -105,11 +105,7 @@ However, an alternative technique that is the double haploid (DH) have been intr
 
 
 
-This DH method requires only two generations to develop homozygous inbred lines that are more amenable to marker-assisted selection (Wu et al., 2017). Marker-assisted selection (MAS) offers an option to expedite the development of varieties that are tolerant to drought and low nitrogen stress (Murovec & Bohanec, 2012; Sserumaga et al., 2016; Vanous et al., 2017). DH can be used to enhance the development of maize germplasm by pyramiding desired alleles in a short time compared to conventional breeding. It reduces the labour force, the cost and the time consuming of the breeding program. 
-
-
-
-The DH technique is more efficient than the conventional breeding in term of the uniformity, the vigor and the stability of the lines (Murovec & Bohanec, 2012; Sserumaga et al., 2016). 
+This DH method requires only two generations to develop homozygous inbred lines that are more amenable to marker-assisted selection (Wu et al., 2017). Marker-assisted selection (MAS) offers an option to expedite the development of varieties that are tolerant to drought and low nitrogen stress (Murovec & Bohanec, 2012; Sserumaga et al., 2016; Vanous et al., 2017). DH can be used to enhance the development of maize germplasm by pyramiding desired alleles in a short time compared to conventional breeding. It reduces the labour force, the cost and the time consuming of the breeding program. The DH technique is more efficient than the conventional breeding in term of the uniformity, the vigor and the stability of the lines (Murovec & Bohanec, 2012; Sserumaga et al., 2016). 
 
 
 
@@ -120,15 +116,66 @@ Two DH techniques can be used in maize breeding: in vitro and in vivo. The in vi
 
 The in vitro DH has many limitations with high laboratory equipment required. Maternal and paternal haploid are both involved in the in vivo DH (Zararsiz et al., 2019). In paternal DH, the inducer is used as a female and the donor as the male parent from which the chromosome comes from. The cytoplasm is only coming from the inducer. The DH technique first starts by creating haploid that have only the female gamete. This is done by using inducer to eliminate the male character in the chromosome. This method is referred to the maternal haploid and the cytoplasm and the chromosome both come from the donor parent (Zararsiz et al., 2019). The DH lines are obtain by the doubling of this gamete using a chemicals that is for the most of the cases Colchicine (Sserumaga et al., 2016; Molenaar et al., 2019). Spontaneous chromosome doubling gives a low rate of inbred, that explains the reason why breeders prefer the use of Colchicine rather than spontaneous chromosome doubling (Wu et al., 2017). 
 
+Three specific Objectives come out for this study:
+	- To develop maize inbred lines for drought and low nitrogen tolerance through double haploid technology.
+	- To classify inbred lines from a population into heterotic groups.
+	- To identify candidate genes associated with these two constraints through a genome-wide association study.
 
 
-The GCA is mainly used to select better parents based on progeny performances while SCA is most commonly used to select for hybrid vigor in specific hybrid combinations. This selection is usually done in F1. It can also be used in F2 and others generations (Singh et al., 2019). 
-Plants have several strategies to overcome drought and low nitrogen stresses. This involves the genes contained in each plant and the role that they have in this special trait (Bashir et al., 2019). However, drought is a complex quantitative trait controlled by many loci with small effects and the study of its inheritance is complicated (X. Zhang et al., 2016). Because of the complexity of the stress tolerant traits, the conventional breeding had challenges to identify them with accuracy (Y.N. Xiao et al., 2005). Identifying the genetic component underlining the traits of interest is key in addressing stress tolerance. In addition to that, low nitrogen is also controlled by several genes (Y. Zhang et al., 2015). To study the components conferring its tolerances, molecular works are indispensable. Contrary to molecular breeding, conventional breeding only help to select good performing lines based on visual observations but it cannot show the multi-genic traits in that line (Wang & Qin, 2017). One of the most powerful tool to effectively and efficiently identify genome-phenotype associations is genome wide association study (GWAS) (Zhang et al., 2016; Turuspekov et al., 2017). GWAS helps to identify a multitude of underlying drought tolerance genes and their functions (Korte & Farlow, 2013; Wang & Qin, 2017; Zhu et al., 2018). Genotyping by sequencing (GBS) has been reported as a powerful technology to perform GWAS especially for new germplasms (Elshire et al., 2011). The GBS has an advantage in the case that it can predetermine genetic variation across all sample, the cost by sample may be low for a certain applications. In addition to the SNP detection the GBS can identify others variation like mutations. It can do comparative analysis without a reference genome (Chung, et al., 2017).To answer these questions and the hypothesis, we set as general objective to contribute to the development of maize hybrids that can grow under drought and low nitrogen conditions with high yields that will be accepted by farmers.
-Fours specific Objectives come out for this study:
-	To develop maize inbred lines for drought and low nitrogen tolerance through double haploid technology.
-	To classify inbred lines from a population into heterotic groups.
-	To identify candidate genes associated with these two constraints through a genome-wide association study.
-	To estimate combining ability and the mode of inheritance for drought and low nitrogen tolerance of identified inbred lines.
+
+
+## Methodology
+
+### Development of inbred lines from stress tolerant maize populations in West Africa
+
+The purpose of the study is to determine whether stress tolerant West African maize populations can be effectively used as sources to develop stress tolerant inbred lines that can be successfully used in hybrid combinations. 
+The doubled haploid (DH) technology will be used to isolate inbred lines from maize populations that are grown by farmers due to stress tolerance.
+
+In the process, haploid inducer lines obtained from the International Maize and Wheat Improvement Center (CIMMYT) will be cross to 5000 lines coming from 5 OPVs populations (1000 seeds each) to produce haploid plants. R1- Navajo (R1-nj) will be used to identify the haploid kernels of each plant at the seed stage. After haploid seeds identification, another growing will be done for the chromosome doubling.
+The chromosome doubling will be done following Deimling et al. (1997) method. Haploid seeds will be germinated in a growing chamber for 4 or 5 days. After emergence of the coleoptile until they reach 2 -3 cm in length, the top will be cut and remove from the root after than they will be immersed in a solution of 0.06 Colchicine and  0.05 dimethyl sulfoxide  (DMSO) for 12 hours at 18° C. After one day of solution application, the coleoptiles will be wash 20 minutes and transplanted in pots in a greenhouse. When the first cycle of DH lines will extent the 4-5 leaf stage in the greenhouse, all the seedling will be transfer in the field for seed production. 
+
+### Heterotic grouping of maize population
+
+A evaluation of news DH inbred lines under drought and low nitrogen tolerance wil be performed.
+An increment of new DH lines will be done to get enough seeds will be made. After the selection, the top 200 DH lines will be evaluated under drought and low nitrogen by doing a test cross and compare with original source population to determine if stress tolerance is present in inbred lines and to assess if improvements have been made. The evaluation for the tolerance to drought will be conducted in dry season in multiple location in west Africa including Ghana, Senegal, Benin and Togo. Basic agronomic traist as well as chlorophyll contetnt will be recorded. the grouping will be inferred using R programming language.
+
+
+
+GWAS on diverse West African inbred lines for tolerance to drought and low N.
+
+Diverse inbred lines (300 accessions of maize) will be collected from the DH study for a genome-wide association study (GWAS) on drought-related traits and on nitrogen for secondary traits including grain yield, stay green, above-ground biomass, biomass grain weight, harvest index and plant height. The GWAS panel will be phenotyped in three environments in Ghana and Senegal. The accessions will also be genotyped with SNP markers based on genotyping by sequencing (GBS) technology. Breeding value than conventional best linear unbiased prediction (BLUPs) calculated from the best-fit model will be used as means for all traits in the analysis. The GWAS will be conducted to identify genomic regions associated with traits (grain yield, stay green, above-ground biomass, biomass grain weight, and Harvest Index and Plant height) in different treatments and seasons.
+
+
+Expected outputs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
