@@ -150,7 +150,11 @@ Expected outputs
 
 
 
+At the end of this research, the folowing outputs should be reached:
 
+- DH lines will be developped;
+- Heterotic group will be defined;
+- Valuables genes for drought stress and low nitrogen tolerance will be detected.
 
 
 
